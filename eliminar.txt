@@ -1,0 +1,3 @@
+git checkout -- .gitignorgit checkout -- .gitignore
+
+git checkout -- .gitignoregit checkout -- .gitignoregit checkout -- .gitignoregit checkout -- .gitignore
